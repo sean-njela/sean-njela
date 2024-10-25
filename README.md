@@ -2,10 +2,17 @@
 🖥️ **OS:** Linux (Ubuntu), Windows
 ⏳ **Uptime:** since 2001 
 
-### 🧑‍💻 Languages  
-**Programming:** Python, JAVA, Go, Bash  
-**Markup:** HTML, CSS, JSON, Markdown, YAML  
-**Spoken:** English, German  
+## 💼 Objective
+I seek a DevOps role to apply and grow my skills through impactful project contributions.
+
+## 🔧 Skills & Tools
+
+- **DevOps Tools:** Docker, Kubernetes, Jenkins, Terraform, Ansible  
+- **Cloud Platforms:** AWS  
+- **Programming Languages:** Python, Bash, Go  
+- **CI/CD Pipelines:** GitLab CI/CD, CircleCI, Travis CI  
+- **Monitoring & Logging:** Prometheus, Grafana, ELK Stack  
+- **Configuration Management:** Chef, Puppet 
 
 ### 🎨 Hobbies  
 **Software:** Infrastructure Automation, Cloud Engineering  
