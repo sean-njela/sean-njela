@@ -1,6 +1,7 @@
-🌟 **Sean Njela**  
-🖥️ **OS:** Linux (Ubuntu), Windows
-⏳ **Uptime:** since 2001 
+# 🌟 **Sean Njela**  
+
+
+🖥️ **OS Uptime:** since 2001 
 
 ## 💼 Objective
 I seek a DevOps role to apply and grow my skills through impactful project contributions.
