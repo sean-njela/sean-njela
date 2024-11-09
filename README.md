@@ -10,7 +10,7 @@ I seek a DevOps role to apply and grow my skills through impactful project contr
 
 - **DevOps Tools:** Docker, Kubernetes, Jenkins, Terraform, Ansible  
 - **Cloud Platforms:** AWS  
-- **Programming Languages:** Python, Bash, Go  
+- **Programming Languages:** Python, JAVA, Bash, Go  
 - **CI/CD Pipelines:** GitLab CI/CD, CircleCI, Travis CI  
 - **Monitoring & Logging:** Prometheus, Grafana, ELK Stack  
 - **Configuration Management:** Chef, Puppet 
