@@ -13,7 +13,7 @@ I seek a DevOps role to apply and grow my skills through impactful project contr
 - **Programming Languages:** Python, JAVA, Bash, Go  
 - **CI/CD Pipelines:** GitLab CI/CD, CircleCI, Travis CI  
 - **Monitoring & Logging:** Prometheus, Grafana, ELK Stack  
-- **Configuration Management:** Chef, Puppet 
+- **Configuration Management:** Ansible, Chef, Puppet 
 
 ### 🎨 Hobbies  
 **Software:** Infrastructure Automation, Cloud Engineering  
