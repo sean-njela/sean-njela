@@ -21,4 +21,4 @@ I seek a DevOps role to apply and grow my skills through impactful project contr
 
 ### 📫 Contact  
 ✉️ **Email:** seannjela@outlook.com  
-🔗 **LinkedIn:** [SeanNjela](https://www.linkedin.com/in/seannjela) 
+🔗 **LinkedIn:** [SeanNjela](https://www.linkedin.com/in/sean-njela) 
