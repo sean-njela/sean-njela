@@ -1,5 +1,5 @@
 # 🌟 **Sean Njela**  
-Vist [My Portfolio](https://devopssean.netlify.app/
+Vist [My Portfolio](https://devopssean.netlify.app/)
 
 🖥️ **OS Uptime:** since 2001 
 
