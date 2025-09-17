@@ -1,5 +1,5 @@
 # 🌟 **Sean Njela**  
-Vist my Portfolio: [https://sean-njela.vercel.app/](https://devopssean.netlify.app/
+Vist [My Portfolio](https://devopssean.netlify.app/
 
 🖥️ **OS Uptime:** since 2001 
 
