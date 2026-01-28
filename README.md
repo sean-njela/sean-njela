@@ -6,9 +6,9 @@
 
 ## Current Projects
 
-- 🔐 **[Zero Trust Architecture in Microservices](https://github.com/sean-njela/zta_thesis_project)** - Service mesh integration, mTLS authentication, and policy-based access control.
+- 🔐 **[Zero Trust Architecture in Microservices](https://github.com/sean-njela/zta_thesis_project)** - Service mesh, mTLS authentication, and policy-based access control.
 - 📊 **[Kubernetes Monitoring Stack](https://github.com/sean-njela/k8s_monitoring)** - Prometheus, Grafana, AlertManager, and custom exporters for cluster monitoring.
-- 🔄 **[ArgoCD GitOps Workflow](https://github.com/sean-njela/argocd-demo)** - Kubernetes using GitOps. Automated sync, rollback capabilities, and multi-cluster management.
+- 🔄 **[ArgoCD GitOps Workflow](https://github.com/sean-njela/argocd-demo)** - Automated sync, rollback capabilities, and multi-cluster management.
 - 🏗️ **[AWS Terraform Demo](https://github.com/sean-njela/terraform-demo)** - VPC design, auto-scaling groups, load balancers, and RDS databases with state management.
 - ⚙️ **[Ansible Playbooks](https://github.com/sean-njela/ansible-demo)** - Server provisioning, application deployment, and security hardening across dev/staging/prod.
 - 🚀 **[Full-Stack Django Boilerplate](https://github.com/sean-njela/django_template)** - Pre-configured authentication, REST API, Docker/K8s setup, and CI/CD.
