@@ -12,7 +12,7 @@
 - 🏗️ **[AWS Terraform Demo](https://github.com/sean-njela/terraform-demo)** - VPC design, auto-scaling groups, load balancers, and RDS databases with state management.
 - ⚙️ **[Ansible Playbooks](https://github.com/sean-njela/ansible-demo)** - Server provisioning, application deployment, and security hardening across dev/staging/prod.
 - 🚀 **[Full-Stack Django Boilerplate](https://github.com/sean-njela/django_template)** - Pre-configured authentication, REST API, Docker/K8s setup, and CI/CD.
-- 📚 **[MkDocs Project Documentation](https://github.com/sean-njela/docs)** - Automated deployment, search, and versioning.
+- 📚 **[MkDocs Project Documentation](https://github.com/sean-njela/docs)** - A preconfigured and fully customizable mkdocs setup. Just clone and use.
 - 🤖 **[Claude Code Setup](https://github.com/sean-njela/claude_code_setup)** - Includes optimised skills, workflow templates, and best practices.
 - 🛡️ **[Dynamic .gitignore Generator](https://github.com/sean-njela/generate-gitignore)** - CLI tool that generates context-aware .gitignore files for any tech stack.
 
